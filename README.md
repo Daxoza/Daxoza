@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Daxoza
+- 👋 Hi, I’m @daxoza
 
 
 <!---
-OZDA/OZDA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+daxoza/daxoza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
